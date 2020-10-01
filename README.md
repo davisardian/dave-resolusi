@@ -1,2 +1,2 @@
 # dave-resolusi
-repository rencana tahun ini (belajar git)
+repository rencana tahun depan saya (belajar git)
