@@ -1,6 +1,7 @@
 RENCANA  ONLINE
 
 -ALAT MUSIK
- +Gitar
+ +Semua alat musik
 -HOODIE
  +brand sendiri
+-Cafe
